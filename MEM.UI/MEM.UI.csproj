@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>918e9593-c849-4634-bc2d-063d9b9ede8c</ProjectGuid>
+    <ProjectGuid>{250685FE-E3F2-4192-BCFD-E608492F116E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>MEM.UI</RootNamespace>
@@ -51,6 +51,7 @@
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
       <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
