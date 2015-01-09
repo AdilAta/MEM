@@ -1,0 +1,4 @@
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.BAL\bin\Debug\MEM.BAL.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.BAL\bin\Debug\MEM.BAL.pdb
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.BAL\obj\Debug\MEM.BAL.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.BAL\obj\Debug\MEM.BAL.pdb
