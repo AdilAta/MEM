@@ -1,4 +1,5 @@
 D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\bin\Debug\MEM.DAL.dll
 D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\bin\Debug\MEM.DAL.pdb
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\obj\Debug\MEM.DAL.csprojResolveAssemblyReference.cache
 D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\obj\Debug\MEM.DAL.dll
 D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\obj\Debug\MEM.DAL.pdb
