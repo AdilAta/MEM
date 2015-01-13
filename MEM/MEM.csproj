@@ -126,6 +126,8 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\BaseController.cs" />
+    <Compile Include="Controllers\HallController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -215,14 +217,28 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Hall\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MEM.BAL\MEM.BAL.csproj">
+      <Project>{510f26a8-a5cd-49ef-bab8-489ce300635c}</Project>
+      <Name>MEM.BAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MEM.Infrastructure\MEM.Infrastructure.csproj">
+      <Project>{c654f8b7-f5d0-401d-b109-437c40eefddc}</Project>
+      <Name>MEM.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MEM.Model\MEM.Domain.csproj">
+      <Project>{844dfc5e-55cd-48fa-af49-250959d9aa17}</Project>
+      <Name>MEM.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

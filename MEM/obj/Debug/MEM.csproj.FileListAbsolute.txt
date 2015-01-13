@@ -23,3 +23,9 @@ D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM\bin\System.Web.WebPages.Razor
 D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM\obj\Debug\MEM.csprojResolveAssemblyReference.cache
 D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM\obj\Debug\MEM.dll
 D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM\obj\Debug\MEM.pdb
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM\bin\MEM.BAL.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM\bin\MEM.Model.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM\bin\MEM.BAL.pdb
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM\bin\MEM.Model.pdb
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM\bin\MEM.Infrastructure.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM\bin\MEM.Infrastructure.pdb
