@@ -1,0 +1,9 @@
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.Model\bin\Debug\MEM.Model.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.Model\bin\Debug\MEM.Model.pdb
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.Model\obj\Debug\MEM.Model.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.Model\obj\Debug\MEM.Model.pdb
+F:\Work\Projects\MEM\Source Code\MEM.Model\bin\Debug\MEM.Model.dll
+F:\Work\Projects\MEM\Source Code\MEM.Model\bin\Debug\MEM.Model.pdb
+F:\Work\Projects\MEM\Source Code\MEM.Model\obj\Debug\MEM.Domain.csprojResolveAssemblyReference.cache
+F:\Work\Projects\MEM\Source Code\MEM.Model\obj\Debug\MEM.Model.dll
+F:\Work\Projects\MEM\Source Code\MEM.Model\obj\Debug\MEM.Model.pdb

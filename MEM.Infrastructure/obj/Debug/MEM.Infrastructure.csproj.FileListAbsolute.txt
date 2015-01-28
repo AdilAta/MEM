@@ -1,7 +1,0 @@
-D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.Infrastructure\bin\Debug\MEM.Infrastructure.dll
-D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.Infrastructure\bin\Debug\MEM.Infrastructure.pdb
-D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.Infrastructure\obj\Debug\MEM.Infrastructure.dll
-D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.Infrastructure\obj\Debug\MEM.Infrastructure.pdb
-D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.Infrastructure\bin\Debug\MEM.Model.dll
-D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.Infrastructure\bin\Debug\MEM.Model.pdb
-D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.Infrastructure\obj\Debug\MEM.Infrastructure.csprojResolveAssemblyReference.cache

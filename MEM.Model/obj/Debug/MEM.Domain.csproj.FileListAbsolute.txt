@@ -1,4 +1,0 @@
-D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.Model\bin\Debug\MEM.Model.dll
-D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.Model\bin\Debug\MEM.Model.pdb
-D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.Model\obj\Debug\MEM.Model.dll
-D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.Model\obj\Debug\MEM.Model.pdb

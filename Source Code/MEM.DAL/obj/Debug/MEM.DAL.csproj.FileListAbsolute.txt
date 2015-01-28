@@ -1,0 +1,34 @@
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\obj\Debug\MEM.DAL.csprojResolveAssemblyReference.cache
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\obj\Debug\ESF.DAL.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\obj\Debug\ESF.DAL.pdb
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\bin\Debug\ESF.DAL.dll.config
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\bin\Debug\ESF.DAL.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\bin\Debug\ESF.DAL.pdb
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\bin\Debug\EntityFramework.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\bin\Debug\MEM.Infrastructure.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\bin\Debug\MEM.Model.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\bin\Debug\System.Data.SqlServerCe.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\bin\Debug\MEM.Infrastructure.pdb
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\bin\Debug\MEM.Model.pdb
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\bin\Debug\EntityFramework.xml
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.DAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Work\Projects\MEM\Source Code\MEM.DAL\bin\Debug\ESF.DAL.dll.config
+F:\Work\Projects\MEM\Source Code\MEM.DAL\bin\Debug\ESF.DAL.dll
+F:\Work\Projects\MEM\Source Code\MEM.DAL\bin\Debug\ESF.DAL.pdb
+F:\Work\Projects\MEM\Source Code\MEM.DAL\bin\Debug\EntityFramework.dll
+F:\Work\Projects\MEM\Source Code\MEM.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Work\Projects\MEM\Source Code\MEM.DAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Work\Projects\MEM\Source Code\MEM.DAL\bin\Debug\MEM.Infrastructure.dll
+F:\Work\Projects\MEM\Source Code\MEM.DAL\bin\Debug\MEM.Model.dll
+F:\Work\Projects\MEM\Source Code\MEM.DAL\bin\Debug\System.Data.SqlServerCe.dll
+F:\Work\Projects\MEM\Source Code\MEM.DAL\bin\Debug\MEM.Infrastructure.pdb
+F:\Work\Projects\MEM\Source Code\MEM.DAL\bin\Debug\MEM.Model.pdb
+F:\Work\Projects\MEM\Source Code\MEM.DAL\bin\Debug\EntityFramework.xml
+F:\Work\Projects\MEM\Source Code\MEM.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Work\Projects\MEM\Source Code\MEM.DAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Work\Projects\MEM\Source Code\MEM.DAL\obj\Debug\MEM.DAL.csprojResolveAssemblyReference.cache
+F:\Work\Projects\MEM\Source Code\MEM.DAL\obj\Debug\ESF.DAL.dll
+F:\Work\Projects\MEM\Source Code\MEM.DAL\obj\Debug\ESF.DAL.pdb

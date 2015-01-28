@@ -1,0 +1,18 @@
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.BAL\bin\Debug\MEM.BAL.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.BAL\bin\Debug\MEM.BAL.pdb
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.BAL\obj\Debug\MEM.BAL.csprojResolveAssemblyReference.cache
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.BAL\obj\Debug\MEM.BAL.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.BAL\obj\Debug\MEM.BAL.pdb
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.BAL\bin\Debug\MEM.Model.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.BAL\bin\Debug\MEM.Model.pdb
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.BAL\bin\Debug\MEM.Infrastructure.dll
+D:\Adil Ata\Personal\Project\Event Manager\MEM\MEM.BAL\bin\Debug\MEM.Infrastructure.pdb
+F:\Work\Projects\MEM\Source Code\MEM.BAL\bin\Debug\MEM.BAL.dll
+F:\Work\Projects\MEM\Source Code\MEM.BAL\bin\Debug\MEM.BAL.pdb
+F:\Work\Projects\MEM\Source Code\MEM.BAL\bin\Debug\MEM.Infrastructure.dll
+F:\Work\Projects\MEM\Source Code\MEM.BAL\bin\Debug\MEM.Model.dll
+F:\Work\Projects\MEM\Source Code\MEM.BAL\bin\Debug\MEM.Infrastructure.pdb
+F:\Work\Projects\MEM\Source Code\MEM.BAL\bin\Debug\MEM.Model.pdb
+F:\Work\Projects\MEM\Source Code\MEM.BAL\obj\Debug\MEM.BAL.csprojResolveAssemblyReference.cache
+F:\Work\Projects\MEM\Source Code\MEM.BAL\obj\Debug\MEM.BAL.dll
+F:\Work\Projects\MEM\Source Code\MEM.BAL\obj\Debug\MEM.BAL.pdb
